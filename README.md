@@ -1,50 +1,32 @@
-<h1 align="center">Hi 👋, I'm IGOREK_Belarus</h1>
-<h3 align="center">Positive</h3>
+<h1 align="center">Hello</h1>
 
-<h3 align="left">Main</h3>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=IGOREK-Belarus&show_icons=true&theme=tokyonight"></p>
 
-- 🔭 I’m currently working on
-- - [?](about:blank)
-- - [?](about:blank)
+### My computer
 
-- 🌱 I’m currently learning
-- - **C**
-- - **C++**
-- - **Blender**
-- - **MCreator**
+| Element | Name |
+| --- | --- |
+| CPU | Intel Core 2 Duo E8400 |
+| RAM | DDR2 4GB |
+| GPU | Nvidia GeForce 210 1 GB |
+| ROM | SSD 120 GB + HDD 360 GB |
+| OS | Linux Debian 12 |
 
- - 👯 I’m looking to collaborate on ****
+### Dotfiles
 
-- 🤝 I’m looking for help with ****
-
-- 💬 Ask me about ****
-
-- 📫 How to reach me **Youtube/Dicsord**
-
- - ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucwwfxspj3gcsffp-rzasgew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucwwfxspj3gcsffp-rzasgew" height="30" width="40" /></a>
-<a href="https://discord.gg/IGOREK_Belarus#4708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="IGOREK_Belarus#4708" height="30" width="40" /></a> </p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IGOREK-Belarus&repo=dotfiles&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-</p>
+### Currently working on
 
-<h3 align="left">Tools:</h3>
-<p align="left">
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IGOREK-Belarus&repo=simpleVanillaWebOS&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+###
+
+### Programming languages
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGOREK-Belarus&theme=tokyonight"></p>
 
 
+### Goals
 
+OSDEV: ![](https://progress-bar.dev/0)
