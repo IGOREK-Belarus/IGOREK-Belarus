@@ -10,7 +10,7 @@
 | RAM | DDR2 4GB |
 | GPU | Nvidia GeForce 210 1 GB |
 | ROM | SSD 120 GB + HDD 360 GB |
-| OS | Linux Debian 12 |
+| OS | Arch Linux |
 
 ### Dotfiles
 
